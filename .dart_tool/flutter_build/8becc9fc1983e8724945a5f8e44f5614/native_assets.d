@@ -1,0 +1,1 @@
+ /home/andys/projetos/todo/.dart_tool/flutter_build/8becc9fc1983e8724945a5f8e44f5614/native_assets.yaml: 
